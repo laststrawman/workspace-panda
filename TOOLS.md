@@ -31,9 +31,12 @@ Things like:
 - Default speaker: Kitchen HomePod
 ```
 
-## Why Separate?
+## Location
 
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
+- **User:** Chris
+- **OwnTracks API:** http://100.79.130.109:8080/api/0/last?user=Chris
+- **Last known:** 33.862359, -84.267131 (Atlanta, GA - Northlake area)
+- **Updated:** 2026-04-16
 
 ---
 
