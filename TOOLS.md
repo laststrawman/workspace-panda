@@ -38,6 +38,12 @@ Things like:
 - **Last known:** 33.862359, -84.267131 (Atlanta, GA - Northlake area)
 - **Updated:** 2026-04-16
 
+### Printer
+
+- **Model:** EPSON ET-2800 Series
+- **IPP URL:** ipp://192.168.86.27:631/ipp/print
+- **Local name:** EPSON_ET_2800_Series (use with `lp -d EPSON_ET_2800_Series`)
+
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
