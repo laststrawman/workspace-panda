@@ -44,6 +44,13 @@ Things like:
 - **IPP URL:** ipp://192.168.86.27:631/ipp/print
 - **Local name:** EPSON_ET_2800_Series (use with `lp -d EPSON_ET_2800_Series`)
 
+### Email
+
+- **Service:** Gmail
+- **Address:** tstratton8274@gmail.com
+- **App Password:** ~/.env_gmail
+- **SMTP:** smtp.gmail.com:587
+
 ---
 
 Add whatever helps you do your job. This is your cheat sheet.
