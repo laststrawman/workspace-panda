@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "gcalendar": {
+      "command": "node",
+      "args": [
+        "/home/chris/.openclaw/workspace/mcp-servers/gcalendar-server.mjs"
+      ],
+      "description": "Google Calendar MCP Server",
+      "env": {
+        "GOOGLE_CALENDAR_CREDENTIALS_PATH": "/home/chris/.config/gcloud/credentials.json"
+      }
+    }
+  }
+}
