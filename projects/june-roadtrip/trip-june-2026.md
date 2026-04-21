@@ -12,20 +12,22 @@
 - **Departure:** June 5, 2026 (Friday)
 - **Duration:** Open-ended (come home when ready)
 - **Driving schedule:** 3 days/week (Fri/Sat/Sun), ~5 hours max per day
-- **Hard deadline:** Arrive San Francisco by June 19
+- **Hard deadline:** Arrive San Francisco by June 25
 
 | Milestone | Estimated Date |
 |---|---|
 | Depart Atlanta | Friday June 5 |
 | Arrive Nashville, TN | Friday June 5 |
-| Arrive Little Rock, AR | Saturday June 6 |
+| Arrive Fort Smith / Russellville, AR | Saturday June 6 |
 | Arrive Oklahoma City, OK | Sunday June 7 |
-| Rest / explore OKC & Amarillo | Mon June 8 – Thu June 11 |
+| Rest / explore OKC | Mon June 8 – Thu June 11 |
 | Arrive Amarillo, TX | Friday June 12 |
 | Arrive Albuquerque, NM | Saturday June 13 |
-| Arrive Flagstaff, AZ | Sunday June 14 |
-| Arrive Bakersfield, CA area | Monday June 15 |
-| **Arrive San Francisco, CA** | **Tuesday June 16** ✅ |
+| Explore Albuquerque / Santa Fe | Sun June 14 – Thu June 18 |
+| Arrive Flagstaff, AZ | Friday June 19 |
+| Explore Flagstaff / Grand Canyon | Sat June 20 – Mon June 22 |
+| Arrive Bakersfield, CA area | Tuesday June 23 |
+| **Arrive San Francisco, CA** | **Wednesday June 24** ✅ |
 | Arrive Island Park, ID (Chapin & Ann Marie) | ~Wed July 15-20 ✅ within window |
 | Depart Island Park heading home | ~Friday July 24 |
 | Return Atlanta | ~Mon August 17-25 |
@@ -35,7 +37,7 @@
 - Linger more → late August or beyond
 
 ## Key Stops
-- **San Francisco, CA** — visit Rachel (daughter) by June 19
+- **San Francisco, CA** — visit Rachel (daughter) by June 25
 - **Island Park, ID** — visit Chapin & Ann Marie, July 1-24
 
 ## Route Philosophy
@@ -50,7 +52,7 @@
 
 > **Primary highway:** I-40 West for nearly the entire route  
 > **Total distance:** ~2,475 miles  
-> **Total driving days:** 8 (spread across 2 weeks with rest days in between)
+> **Total driving days:** 8 (spread across ~3 weeks with extended linger days)
 
 ### Leg 1: Atlanta, GA → Nashville, TN
 - **Distance:** ~250 miles | **Drive time:** ~4 hours
@@ -61,18 +63,19 @@
 
 ---
 
-### Leg 2: Nashville, TN → Little Rock, AR
-- **Distance:** ~340 miles | **Drive time:** ~5.5 hours
-- Cross the Mississippi River at Memphis
+### Leg 2: Nashville, TN → Fort Smith / Russellville, AR
+- **Distance:** ~330 miles | **Drive time:** ~5 hours
+- Enter Arkansas, Ozark foothills
 - **Date:** Saturday June 6
-- **Stay:** Maumelle Park (Army Corps, on Arkansas River) or Little Rock North KOA
-- **Do:** Lunch stop on Beale Street if you want to stretch your legs
+- **Stay:** Fort Smith area RV park or [Dogwood Springs RV Park](https://www.dogwoodspringsrv.com/) (Russellville area)
+- **Do:** Historic Fort Smith, Ozark National Forest, Arkansas River Valley
+- **Linger:** Extra time to explore the area — worth a Sunday rest day if you want
 
 ---
 
-### Leg 3: Little Rock, AR → Oklahoma City, OK
-- **Distance:** ~340 miles | **Drive time:** ~5 hours
-- Ozark National Forest views; Fort Smith historic district
+### Leg 3: Fort Smith / Russellville, AR → Oklahoma City, OK
+- **Distance:** ~180 miles | **Drive time:** ~3 hours
+- Short hop — easy day after Arkansas exploration
 - **Date:** Sunday June 7
 - **Stay:** Oklahoma City East KOA or Lake Hefner area RV parks
 - **Do:** OKC National Memorial, National Cowboy Museum if you're not beat
@@ -80,15 +83,15 @@
 ---
 
 ### Rest Days: Monday June 8 – Thursday June 11
-- **Stay in/around OKC or Amarillo** — recharge, do laundry, handle life admin
-- Optional: Explore OKC, or reposition early to Amarillo and rest there
+- **Stay in/around OKC** — recharge, do laundry, handle life admin
+- Optional: Explore OKC, Bricktown, Myriad Botanical Gardens
 - This gap is required because you only drive Fri/Sat/Sun
 
 ---
 
 ### Leg 4: Oklahoma City, OK → Amarillo, TX
 - **Distance:** ~260 miles | **Drive time:** ~4 hours
-- Short day — entry into the Texas Panhandle
+- Into the Texas Panhandle
 - **Date:** Friday June 12
 - **Stay:** Amarillo KOA or Lake Meredith National Recreation Area (free/cheap)
 - **Do:** Cadillac Ranch, Palo Duro Canyon State Park ("Grand Canyon of Texas," 30 min south)
@@ -100,24 +103,53 @@
 - Enter New Mexico; Route 66 nostalgia in Tucumcari; Santa Rosa Blue Hole
 - **Date:** Saturday June 13
 - **Stay:** Albuquerque KOA or High Desert RV Park
-- **Do:** Old Town Albuquerque, green chile everything
+- **Do:** Old Town Albuquerque, Sandia Peak Tram, green chile everything
+
+---
+
+### Extended Linger: Albuquerque / Santa Fe Area — Sunday June 14 – Thursday June 18
+- **5 full days** — longest linger of the trip
+- **Do:**
+  - **Old Town Albuquerque** — adobe architecture, shops, restaurants
+  - **Sandia Peak Tram** — world's longest aerial tramway
+  - **Santa Fe** — Georgia O'Keeffe Museum, Canyon Road galleries, Santa Fe Plaza (1 hr north)
+  - **Meow Wolf** — immersive interactive art experience (Santa Fe)
+  - **Bandelier National Monument** — ancient cliff dwellings (45 min from Santa Fe)
+  - **Petroglyph National Monument** — 24,000 carved images (in Albuquerque)
+  - **Hot air balloon rides** — Albuquerque is the ballooning capital of the world
+  - **Turquoise Trail** — scenic drive between Albuquerque and Santa Fe
+- **Camp:** Stay at Albuquerque KOA or move to Santa Fe Skies RV Park for part of the stay
 
 ---
 
 ### Leg 6: Albuquerque, NM → Flagstaff, AZ
 - **Distance:** ~320 miles | **Drive time:** ~5 hours
-- Optional detour: Petrified Forest National Park
-- **Date:** Sunday June 14
+- Optional: Petrified Forest National Park detour
+- **Date:** Friday June 19
 - **Stay:** Flagstaff KOA Holiday or Black Barts RV Park
 - **Do:** Historic Route 66 downtown, Lowell Observatory, breweries
 - **Note:** You're at 7,000 ft elevation — cool mountain air, thin air
 
 ---
 
+### Extended Linger: Flagstaff / Grand Canyon Area — Saturday June 20 – Monday June 22
+- **3 full days**
+- **Do:**
+  - **Grand Canyon National Park** — day trip (1.5 hrs north). South Rim viewpoints, Desert View Drive, visitor centers.
+  - **Lowell Observatory** — where Pluto was discovered. Night sky viewing programs.
+  - **Sedona** — red rock country (45 min south). Cathedral Rock, Bell Rock, Oak Creek Canyon.
+  - **Wupatki National Monument** — ancient pueblo ruins (30 min north)
+  - **Sunset Crater Volcano NM** — lava flows and cinder cone (near Wupatki)
+  - **Historic Route 66** — walkable downtown Flagstaff, iconic Americana
+  - **Flagstaff breweries** — Wanderlust, Dark Sky, Mother Road
+- **Camp:** Flagstaff KOA Holiday (convenient) or Black Barts RV Park (on-site steakhouse + live music)
+
+---
+
 ### Leg 7: Flagstaff, AZ → Bakersfield, CA area
 - **Distance:** ~380 miles | **Drive time:** ~5.5–6 hours
 - Mojave Desert crossing — longest day of the trip
-- **Date:** Monday June 15
+- **Date:** Tuesday June 23
 - **Stay:** Orange Grove RV Park (unique — working orange grove) or Bakersfield RV Resort
 - **⚠️ June heat:** Start early, bring water, run generator for AC if needed
 
@@ -126,9 +158,9 @@
 ### Leg 8: Bakersfield, CA → San Francisco, CA
 - **Distance:** ~280 miles | **Drive time:** ~4.5–5 hours
 - Up through the Central Valley, across the Bay Bridge
-- **Date:** Tuesday June 16
+- **Date:** Wednesday June 24
 - **Stay:** San Francisco North/Petaluma KOA Resort, Marin RV Park, or Pacifica RV Resort
-- **Arrive:** Tuesday afternoon/evening — 3 full days before June 19 deadline ✅
+- **Arrive:** Wednesday afternoon/evening — 1 full day before June 25 deadline ✅
 
 ---
 
@@ -137,10 +169,11 @@
 | Segment | Road | Notes |
 |---|---|---|
 | Atlanta → Nashville | I-75 → I-24 | Mountainous but scenic |
-| Nashville → OKC | I-40 | Straight, steady |
+| Nashville → Fort Smith | I-40 | Straight, steady |
+| Fort Smith → OKC | I-40 | Short day, Ozark foothills |
 | OKC → Amarillo | I-40 | Entering high plains |
 | Amarillo → Albuquerque | I-40 | Desert begins, fuel up |
-| Albuquerque → Flagstaff | I-40 | Long stretches, beautiful skies |
+| Albuquerque → Flagstaff | I-40 | Long stretches, beautiful skies, Petrified Forest optional |
 | Flagstaff → Bakersfield | I-40 → CA-58 | Mojave Desert, hot in June |
 | Bakersfield → SF | I-5 or CA-99 | Agricultural Central Valley |
 
@@ -149,7 +182,7 @@
 | Location | Avg High | Notes |
 |---|---|---|
 | Nashville | 85°F | Humid, possible storms |
-| Little Rock | 88°F | Humid |
+| Fort Smith / Russellville | 88°F | Humid, green |
 | Oklahoma City | 90°F | Hot, windy |
 | Amarillo | 90°F | Dry heat, wide open |
 | Albuquerque | 88°F | Dry, cool nights |
@@ -159,23 +192,12 @@
 
 ---
 
-## What If You CAN'T Drive Monday/Tuesday?
+## What If You Want Even More Time in Flagstaff?
 
-If you're locked to **only** Fri/Sat/Sun driving, you have two options:
-
-**Option A — Extend past June 19 (not recommended)**
-- You'd need another weekend, arriving ~June 22 — misses your deadline
-
-**Option B — Compress into longer days**
-- June 5: Atlanta → Nashville (~4 hrs)
-- June 6: Nashville → Little Rock (~5.5 hrs)
-- June 7: Little Rock → OKC (~5 hrs)
-- June 12: OKC → Amarillo (~4 hrs)
-- June 13: Amarillo → Albuquerque (~4.5 hrs)
-- June 14: Albuquerque → Flagstaff (~5 hrs)
-- June 19: Flagstaff → SF (~600 miles, 9-10 hrs) — **too long while towing**
-
-**Verdict:** Keep Monday June 15 and Tuesday June 16 as driving days. The 3-day buffer before June 19 gives you flexibility if something goes wrong.
+If you want to extend the Flagstaff/Grand Canyon stay:
+- **Option:** Drive Flagstaff → Barstow on Friday June 19 instead (cuts Flagstaff short)
+- **Or:** Add one more week and push SF arrival to June 30+
+- Current plan gives you 3 days in Flagstaff + 5 days in Albuquerque — a good balance
 
 ---
 
@@ -253,7 +275,7 @@ If you're locked to **only** Fri/Sat/Sun driving, you have two options:
 
 ## Booking Checklist
 
-- [ ] Reserve campgrounds for all 8 nights
+- [ ] Reserve campgrounds for all driving nights
 - [ ] Check camper tire condition & spare
 - [ ] Verify propane tank levels
 - [ ] Download offline maps (Google Maps / Gaia GPS)
@@ -391,4 +413,4 @@ If you're locked to **only** Fri/Sat/Sun driving, you have two options:
 
 ---
 
-*Route updated April 2026 — I-40 West route for fastest, most RV-friendly crossing*
+*Route updated April 2026 — I-40 West route with extended lingers in Arkansas, Albuquerque, and Flagstaff*
