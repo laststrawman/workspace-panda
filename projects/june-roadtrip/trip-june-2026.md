@@ -9,16 +9,24 @@
 - Chris + wife
 
 ## Dates
-- **Departure:** June 7, 2026
+- **Departure:** June 5, 2026 (Friday)
 - **Duration:** Open-ended (come home when ready)
-- **Estimated timeline** (based on 6/8 departure, ~2 driving days/week, lingering pace):
+- **Driving schedule:** 3 days/week (Fri/Sat/Sun), ~5 hours max per day
+- **Hard deadline:** Arrive San Francisco by June 19
 
 | Milestone | Estimated Date |
 |---|---|
-| Depart Atlanta | Sunday June 7 |
-| Arrive Kerrville TX (David) | Friday June 12 |
-| Arrive San Francisco (Rachel) | Friday June 19 ✅ |
-| Arrive Island Park ID (Chapin & Ann Marie) | ~Wed July 15-20 ✅ within window |
+| Depart Atlanta | Friday June 5 |
+| Arrive Nashville, TN | Friday June 5 |
+| Arrive Little Rock, AR | Saturday June 6 |
+| Arrive Oklahoma City, OK | Sunday June 7 |
+| Rest / explore OKC & Amarillo | Mon June 8 – Thu June 11 |
+| Arrive Amarillo, TX | Friday June 12 |
+| Arrive Albuquerque, NM | Saturday June 13 |
+| Arrive Flagstaff, AZ | Sunday June 14 |
+| Arrive Bakersfield, CA area | Monday June 15 |
+| **Arrive San Francisco, CA** | **Tuesday June 16** ✅ |
+| Arrive Island Park, ID (Chapin & Ann Marie) | ~Wed July 15-20 ✅ within window |
 | Depart Island Park heading home | ~Friday July 24 |
 | Return Atlanta | ~Mon August 17-25 |
 
@@ -27,117 +35,151 @@
 - Linger more → late August or beyond
 
 ## Key Stops
-- **Kerrville, TX** — visit David (friend)
-- **San Francisco, CA** — visit Rachel (daughter)
+- **San Francisco, CA** — visit Rachel (daughter) by June 19
 - **Island Park, ID** — visit Chapin & Ann Marie, July 1-24
 
-## Live Trip Map
-🗺️ [June 2026 Road Trip — Google My Maps](https://www.google.com/maps/d/viewer?mid=1PEJZiRMuKwsW1Le5t27W5B9V694Z1Hg)
-
 ## Route Philosophy
-- 3-4 hours driving per day, ~2 driving days per week
-- Skip boring stretches, linger where it's good
-- **Southerly route OUT** (Atlanta → Birmingham → Jackson → Shreveport → Dallas → San Antonio → Kerrville → El Paso → Petrified Forest → Flagstaff → Grand Canyon → California)
-- **Northerly route BACK** (California → Oregon/Nevada → Utah → Colorado → Atlanta)
+- ~5 hours driving per day, 3 driving days per week (Fri/Sat/Sun)
+- I-40 West for the fastest, most RV-friendly cross-country corridor
 - Majority hookup camping, occasional dry camping ok
 - **Harvest Hosts member** — use for unique overnight stops (wineries, farms, breweries, museums)
 
 ---
 
-## SOUTHERLY ROUTE (Atlanta → San Francisco)
+## WESTBOUND ROUTE (Atlanta → San Francisco)
 
-### Leg 1: Atlanta, GA → Birmingham, AL
-- **Distance:** ~150 miles | **Drive time:** ~2.5 hrs
-- Easy first day — short shake-down drive | **Date:** Sunday June 7
-- **Stay:** Birmingham South RV Park (Pelham, AL) ⭐ — 99 full hookup sites, 30/50 amp, heated pool, 18 miles south of downtown, big-rig friendly, well reviewed
-- Backup: Hoover Met Complex RV Park — 170 asphalt pull-thru sites, full hookups
-- **Do:** Sloss Furnaces (cool industrial history), good food scene if you want to explore
+> **Primary highway:** I-40 West for nearly the entire route  
+> **Total distance:** ~2,475 miles  
+> **Total driving days:** 8 (spread across 2 weeks with rest days in between)
 
-### Leg 2: Birmingham, AL → Jackson, MS
-- **Distance:** ~200 miles | **Drive time:** ~3 hrs
-- Smooth I-20 run through Mississippi | **Date:** Monday June 8
-- **Stay:** Swinging Bridge RV Park (Byram, MS) ⭐ — 10 miles south of Jackson off I-55, concrete pads, 30/50 amp full hookups, big-rig friendly, well-maintained
-- Backup: Askew's Landing RV Campground (Edwards, MS) — top-rated in Central MS, peaceful, near Queens Hill Lake
-- Jackson is a pass-through — not a destination, just a rest stop
-
-### Leg 3: Jackson, MS → Dallas/Fort Worth, TX *(Shreveport overnight dropped for timing)*
-- **Distance:** ~250 miles | **Drive time:** ~3.5 hrs
-- Skip Shreveport overnight — pass through if needed for fuel/food | **Date:** Tuesday June 9
-- **Stay:** Treetops RV Resort (Arlington, TX) ⭐ — 174+ sites under 2,000 oak trees, concrete patios, 30/50 amp, pool, big-rig friendly
-- Backup: Northlake Village RV Park (Roanoke, TX) — quiet, top-rated, pool, fitness center
-- Backup 2: Traders Village RV Park (Grand Prairie, TX) — pull-through, full hookups, concrete pads
-
-### Leg 5: Dallas → San Antonio, TX
-- **Distance:** ~280 miles | **Drive time:** ~4 hrs
-- I-35 straight shot south
-- **San Antonio:** 1-2 nights | **Date:** Wednesday June 10
-- **Stay:** Braunig Lake RV Resort ⭐ — voted "Best of the Best 2025" by RV Life, 266 full-service sites, minutes from downtown, The Alamo, and Riverwalk
-- Backup: Admiralty RV Resort — big-rig friendly, Junior Olympic pool, pickleball courts
-- **Do:** River Walk, The Alamo, great food scene
-
-### Leg 3: San Antonio, TX → Kerrville, TX
-- **Distance:** ~65 miles | **Drive time:** ~1 hr
-- Short hop into the Hill Country
-- **Kerrville:** Stay as long as the visit warrants | **Date:** Thursday June 11
-- **Stay:** Buckhorn Lake Resort ⭐ — premier resort, concrete pads, 50 amp, spring-fed fishing lakes, pools, fitness center, adults-only section available
-- Backup: Guadalupe River RV Campground — river access, full hookups, heart of Hill Country
-- Backup 2: Kerrville-Schreiner Park — city-operated, riverside, 30/50 amp full hookups
-  - 🎵 **Kerrville Folk Festival** — runs late May through early June, right at your departure window. One of the best folk/Americana festivals in the country. Worth timing your visit around it.
-  - 🎵 Luckenbach TX is 20 min away — live music nightly, legendary dancehall
-
-### Leg 4: Kerrville, TX → El Paso, TX
-- **Distance:** ~360 miles | **Drive time:** ~5 hrs
-- Cross the wide open Trans-Pecos
-- **Overnight options:**
-  - Fort Stockton: Fort Stockton RV Park (basic but fine)
-  - Or push to Marfa — quirky art town, worth a night
-    - Stay: Tumble In RV Park (Marfa) — fun vibe
-- **El Paso:** 1 night | **Date:** Sunday June 14
-- **Stay:** Mission RV Park ⭐ — well-maintained, 30/50 amp, pool, laundry, big-rig friendly, good security
-- Backup: Great Escapes RV Park El Paso (Anthony, TX) — pull-throughs, 20/30/50 amp, two dog parks
-- Backup 2: Rio Grande Valley Ranch (Canutillo, TX) — 62 luxury drive-through sites, free water/electric/Wi-Fi, peaceful
-- 🦴 **Fossil stop:** Big Bend area (slight detour south) — marine fossils, ancient sea creatures. Fossil Bone Exhibit at Big Bend NP is free and accessible.
-
-### Leg 5: El Paso, TX → Petrified Forest NP (Holbrook, AZ)
-- **Distance:** ~320 miles | **Drive time:** ~4.5 hrs
-- **⚠️ June heat:** Drive early, arrive before noon
-- **Stay:** Holbrook/Petrified Forest KOA Journey ⭐ — closest full-service campground to the park, 10 min from SW entrance, 30/50 amp full hookups, pull-through sites, pool, Wi-Fi
-- Backup: OK RV Park (Holbrook) — Good Sam rated, pull-through gravel sites, 30/50 amp, clean facilities, pet-friendly
-- Backup 2: Sunset RV Park (Holbrook) — pull-throughs, 20/30/50 amp, gated, restaurants walking distance
-- **Petrified Forest:** 2 nights minimum
-  - 🦴 **Fossil paradise:** 225 million year old petrified wood turned to crystal — scattered across the desert floor. One of the most surreal landscapes in America.
-  - Painted Desert — extraordinary colors at sunrise/sunset
-  - Crystal Forest Trail, Blue Mesa Trail
-  - ⚠️ Do NOT take any petrified wood — federal offense, and the rangers mean it
-
-### Leg 6: Petrified Forest → Flagstaff, AZ
-- **Distance:** ~110 miles | **Drive time:** ~1.5 hrs
-- Short hop, high elevation (7,000ft) — dramatically cooler than the desert
-- **Stay:** Flagstaff KOA Holiday ⭐ — ponderosa pines, spacious sites, full hookups, dog park, minutes from downtown, reviewed well as recently as March 2026
-- Backup: Black Barts RV Park — heart of Flagstaff, big-rig friendly, full hookups, on-site steakhouse with live music
-- Backup 2: Flagstaff RV Park (Hwy 89) — 70 sites, 30/50 amp, tall pines, well-kept grounds
-- **Do:** Historic Route 66 downtown, Lowell Observatory, great food/breweries
-- Good base for Grand Canyon day
-
-### Leg 7: Flagstaff → Barstow/Needles, CA *(Grand Canyon dropped for timing — save for dedicated trip)*
-- **Distance:** ~220 miles to Needles | **Drive time:** ~3 hrs
-- **⚠️ Heat:** June in the Mojave — drive at dawn, be parked by noon
-- **Stay:** Needles KOA Journey ⭐ — pull-through sites, 30/50 amp full hookups, free Wi-Fi. Sit on the Colorado River, cool off before the desert push.
-- Backup (Barstow): Desert Springs RV Park (Daggett) — full hookups, pool, hot showers, pet-friendly, near Calico Ghost Town
-- Backup 2 (Barstow): Barstow/Calico KOA — pull-throughs, Wi-Fi, accommodates 40ft+ with tow
-- Route 66 corridor — classic American desert drive
-
-### Leg 8: Barstow/Needles → Petaluma, CA (SF base camp)
-- **Distance:** ~350 miles | **Drive time:** ~5 hrs | **Date:** Friday June 19 ✅
-- Split into 2 days if needed — arrive SF area by June 19
-- **Stay:** San Francisco North/Petaluma KOA Resort ⭐ — 70 acres, 312 sites, large pull-throughs, 30/50 amp full hookups, dog park, Sonoma County Wine Country surroundings, 45 min from SF
-- Backup: Marin RV Park (Greenbrae) — closest RV park to SF (10 miles from Golden Gate), 87 full hookup sites, 30/50 amp, pet-friendly, Larkspur Ferry access to SF — no need to drive the truck in
-- Backup 2: San Francisco RV Resort (Pacifica) — Pacific Ocean bluffs, 150 sites up to 45ft, full hookups, pool
-- Rachel drives up to meet them, or they take truck/ferry into the city
+### Leg 1: Atlanta, GA → Nashville, TN
+- **Distance:** ~250 miles | **Drive time:** ~4 hours
+- Easy first day — cross into Tennessee without overdoing it
+- **Date:** Friday June 5
+- **Stay:** Two Rivers RV Resort or Nashville KOA
+- **Do:** Optional stop in Chattanooga (Lookout Mountain, Ruby Falls) if you leave early
 
 ---
 
-## NORTHERLY ROUTE (San Francisco → Atlanta)
+### Leg 2: Nashville, TN → Little Rock, AR
+- **Distance:** ~340 miles | **Drive time:** ~5.5 hours
+- Cross the Mississippi River at Memphis
+- **Date:** Saturday June 6
+- **Stay:** Maumelle Park (Army Corps, on Arkansas River) or Little Rock North KOA
+- **Do:** Lunch stop on Beale Street if you want to stretch your legs
+
+---
+
+### Leg 3: Little Rock, AR → Oklahoma City, OK
+- **Distance:** ~340 miles | **Drive time:** ~5 hours
+- Ozark National Forest views; Fort Smith historic district
+- **Date:** Sunday June 7
+- **Stay:** Oklahoma City East KOA or Lake Hefner area RV parks
+- **Do:** OKC National Memorial, National Cowboy Museum if you're not beat
+
+---
+
+### Rest Days: Monday June 8 – Thursday June 11
+- **Stay in/around OKC or Amarillo** — recharge, do laundry, handle life admin
+- Optional: Explore OKC, or reposition early to Amarillo and rest there
+- This gap is required because you only drive Fri/Sat/Sun
+
+---
+
+### Leg 4: Oklahoma City, OK → Amarillo, TX
+- **Distance:** ~260 miles | **Drive time:** ~4 hours
+- Short day — entry into the Texas Panhandle
+- **Date:** Friday June 12
+- **Stay:** Amarillo KOA or Lake Meredith National Recreation Area (free/cheap)
+- **Do:** Cadillac Ranch, Palo Duro Canyon State Park ("Grand Canyon of Texas," 30 min south)
+
+---
+
+### Leg 5: Amarillo, TX → Albuquerque, NM
+- **Distance:** ~290 miles | **Drive time:** ~4.5 hours
+- Enter New Mexico; Route 66 nostalgia in Tucumcari; Santa Rosa Blue Hole
+- **Date:** Saturday June 13
+- **Stay:** Albuquerque KOA or High Desert RV Park
+- **Do:** Old Town Albuquerque, green chile everything
+
+---
+
+### Leg 6: Albuquerque, NM → Flagstaff, AZ
+- **Distance:** ~320 miles | **Drive time:** ~5 hours
+- Optional detour: Petrified Forest National Park
+- **Date:** Sunday June 14
+- **Stay:** Flagstaff KOA Holiday or Black Barts RV Park
+- **Do:** Historic Route 66 downtown, Lowell Observatory, breweries
+- **Note:** You're at 7,000 ft elevation — cool mountain air, thin air
+
+---
+
+### Leg 7: Flagstaff, AZ → Bakersfield, CA area
+- **Distance:** ~380 miles | **Drive time:** ~5.5–6 hours
+- Mojave Desert crossing — longest day of the trip
+- **Date:** Monday June 15
+- **Stay:** Orange Grove RV Park (unique — working orange grove) or Bakersfield RV Resort
+- **⚠️ June heat:** Start early, bring water, run generator for AC if needed
+
+---
+
+### Leg 8: Bakersfield, CA → San Francisco, CA
+- **Distance:** ~280 miles | **Drive time:** ~4.5–5 hours
+- Up through the Central Valley, across the Bay Bridge
+- **Date:** Tuesday June 16
+- **Stay:** San Francisco North/Petaluma KOA Resort, Marin RV Park, or Pacifica RV Resort
+- **Arrive:** Tuesday afternoon/evening — 3 full days before June 19 deadline ✅
+
+---
+
+## Route Notes
+
+| Segment | Road | Notes |
+|---|---|---|
+| Atlanta → Nashville | I-75 → I-24 | Mountainous but scenic |
+| Nashville → OKC | I-40 | Straight, steady |
+| OKC → Amarillo | I-40 | Entering high plains |
+| Amarillo → Albuquerque | I-40 | Desert begins, fuel up |
+| Albuquerque → Flagstaff | I-40 | Long stretches, beautiful skies |
+| Flagstaff → Bakersfield | I-40 → CA-58 | Mojave Desert, hot in June |
+| Bakersfield → SF | I-5 or CA-99 | Agricultural Central Valley |
+
+### June Weather Expectations
+
+| Location | Avg High | Notes |
+|---|---|---|
+| Nashville | 85°F | Humid, possible storms |
+| Little Rock | 88°F | Humid |
+| Oklahoma City | 90°F | Hot, windy |
+| Amarillo | 90°F | Dry heat, wide open |
+| Albuquerque | 88°F | Dry, cool nights |
+| Flagstaff | 80°F | Pleasant! High altitude |
+| Bakersfield | 95°F | Hot, dry |
+| San Francisco | 65°F | Pack a jacket! |
+
+---
+
+## What If You CAN'T Drive Monday/Tuesday?
+
+If you're locked to **only** Fri/Sat/Sun driving, you have two options:
+
+**Option A — Extend past June 19 (not recommended)**
+- You'd need another weekend, arriving ~June 22 — misses your deadline
+
+**Option B — Compress into longer days**
+- June 5: Atlanta → Nashville (~4 hrs)
+- June 6: Nashville → Little Rock (~5.5 hrs)
+- June 7: Little Rock → OKC (~5 hrs)
+- June 12: OKC → Amarillo (~4 hrs)
+- June 13: Amarillo → Albuquerque (~4.5 hrs)
+- June 14: Albuquerque → Flagstaff (~5 hrs)
+- June 19: Flagstaff → SF (~600 miles, 9-10 hrs) — **too long while towing**
+
+**Verdict:** Keep Monday June 15 and Tuesday June 16 as driving days. The 3-day buffer before June 19 gives you flexibility if something goes wrong.
+
+---
+
+## EASTBOUND ROUTE (San Francisco → Atlanta)
 
 ### Leg 1: San Francisco → Redwoods (Avenue of the Giants)
 - **Distance:** ~250 miles | **Drive time:** ~4 hrs
@@ -199,6 +241,27 @@
 
 ---
 
+## Camper-Specific Tips
+
+1. **Elevation:** Flagstaff is 7,000 ft. If you're sensitive to altitude, take it easy.
+2. **Heat:** June in the Mojave (Leg 7) will be hot. Drive early, run the generator for AC if needed.
+3. **Fuel:** Stretches in New Mexico and Arizona can be long. Don't let the tank drop below 1/4.
+4. **Reservations:** June is peak travel season. Book campgrounds ahead, especially weekends.
+5. **I-40 Condition:** Generally excellent for RVs. Few steep grades compared to I-10 or northern routes.
+
+---
+
+## Booking Checklist
+
+- [ ] Reserve campgrounds for all 8 nights
+- [ ] Check camper tire condition & spare
+- [ ] Verify propane tank levels
+- [ ] Download offline maps (Google Maps / Gaia GPS)
+- [ ] AAA membership / roadside assistance active
+- [ ] Pack layers — SF will be 20° cooler than where you started
+
+---
+
 ## TODO Lists
 
 ### Packing List
@@ -207,7 +270,7 @@
 - [ ] Everyday casual clothes (1 week worth each)
 - [ ] Warm layers — fleece, light jacket (SF June is cold, mountains too)
 - [ ] Rain jacket (both)
-- [ ] Nicer clothes for going out (New Orleans, SF, restaurants)
+- [ ] Nicer clothes for going out (SF, restaurants)
 - [ ] Swimwear
 - [ ] Hiking shoes / trail runners
 - [ ] Sandals / camp shoes
@@ -219,7 +282,7 @@
 **Bedding**
 - [ ] Pillows (bringing own)
 - [ ] Bedding (bringing own — confirmed)
-- [ ] Extra blanket (for cold nights — Crater Lake, Bend, mountains)
+- [ ] Extra blanket (for cold nights — Flagstaff, mountains)
 - [ ] **Towels** ⚠️ (forgot on last trip — do not skip)
 
 **Kitchen & Cooking**
@@ -314,30 +377,18 @@
   - **Forward Address:**
     Chris Stratton
     5753 Hwy 85 North #4987
-    Crestview, FL 32536
-- [ ] Pause any regular deliveries (Amazon Subscribe & Save, etc.)
-- [ ] Notify anyone who might send packages
+    Riverdale, GA 30274
+- [ ] Pause subscriptions (meal kits, etc.)
+- [ ] Arrange for someone to check porch for packages
 
-**Yard & Exterior**
-- [ ] Lawn service arranged
-- [ ] Someone to water plants
-- [ ] Clean out fridge of perishables
-- [ ] Take out all trash before leaving
+**Vehicles**
+- [ ] Store/secure extra vehicles
+- [ ] Consider trickle charger for stored vehicles
 
-**Admin**
+**Notifications**
 - [ ] Notify bank/credit cards of travel (avoid fraud blocks)
-- [ ] Download offline maps for dead zones (Google Maps, iOverlander)
-- [ ] Leave emergency contact info with a neighbor
-- [ ] Confirm home/auto/RV insurance is current
-
-### Booking Notes — PRIORITY ORDER
-- [x] ~~**Grand Canyon Trailer Village**~~ — dropped from this trip, save for dedicated visit
-- [ ] 🔴 **Petrified Forest / Holbrook KOA** — limited hookups, book soon
-- [ ] 🟡 **Morro Bay State Park, CA** — books out months ahead, reserve ASAP
-- [ ] 🟡 **Crater Lake Mazama Campground, OR** — same, very popular
-- [ ] 🟡 **Moab Valley RV Resort, UT** — June is peak season
-- [ ] 🟡 **Petaluma KOA, CA** (SF base camp) — June is Wine Country peak season
+- [ ] Set up mail forwarding with USPS
 
 ---
 
-*Last updated: 2026-03-26*
+*Route updated April 2026 — I-40 West route for fastest, most RV-friendly crossing*
