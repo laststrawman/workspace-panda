@@ -1,0 +1,85 @@
+{
+  "_type": "waypoints",
+  "waypoints": [
+    {
+      "_type": "waypoint",
+      "tst": 1749148800,
+      "lat": 33.749,
+      "lon": -84.388,
+      "rad": 500,
+      "desc": "Atlanta, GA — Start"
+    },
+    {
+      "_type": "waypoint",
+      "tst": 1749235200,
+      "lat": 36.1627,
+      "lon": -86.7816,
+      "rad": 500,
+      "desc": "Nashville, TN — Leg 1"
+    },
+    {
+      "_type": "waypoint",
+      "tst": 1749321600,
+      "lat": 35.3859,
+      "lon": -94.3985,
+      "rad": 500,
+      "desc": "Fort Smith / Russellville, AR — Leg 2 (linger spot)"
+    },
+    {
+      "_type": "waypoint",
+      "tst": 1749408000,
+      "lat": 35.4676,
+      "lon": -97.5164,
+      "rad": 500,
+      "desc": "Oklahoma City, OK — Leg 3 (rest days)"
+    },
+    {
+      "_type": "waypoint",
+      "tst": 1749830400,
+      "lat": 35.2211,
+      "lon": -101.8313,
+      "rad": 500,
+      "desc": "Amarillo, TX — Leg 4"
+    },
+    {
+      "_type": "waypoint",
+      "tst": 1749916800,
+      "lat": 35.0844,
+      "lon": -106.6504,
+      "rad": 500,
+      "desc": "Albuquerque, NM — Leg 5 (5-day linger)"
+    },
+    {
+      "_type": "waypoint",
+      "tst": 1750512000,
+      "lat": 35.1983,
+      "lon": -111.6513,
+      "rad": 500,
+      "desc": "Flagstaff, AZ — Leg 6 (3-day linger)"
+    },
+    {
+      "_type": "waypoint",
+      "tst": 1750857600,
+      "lat": 35.3733,
+      "lon": -119.0187,
+      "rad": 500,
+      "desc": "Bakersfield, CA — Leg 7"
+    },
+    {
+      "_type": "waypoint",
+      "tst": 1750944000,
+      "lat": 37.7749,
+      "lon": -122.4194,
+      "rad": 500,
+      "desc": "San Francisco, CA — Destination (visit Rachel)"
+    },
+    {
+      "_type": "waypoint",
+      "tst": 1751552400,
+      "lat": 44.4993,
+      "lon": -111.3018,
+      "rad": 500,
+      "desc": "Island Park, ID — Visit Chapin & Ann Marie (July window)"
+    }
+  ]
+}
